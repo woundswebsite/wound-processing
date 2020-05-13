@@ -1,0 +1,2 @@
+Path to files,Age [year],Sex,Treatment technique,Wound aetiology,Duration [month],Photo,Mask,Stereo_l,Stereo_r,Thermal,Depth camera,Photo-thermal image,Stereo map with photo-thermal image,Deep map with photo-thermal image
+patients\case_47\day_70\data\scene_1,54,f,Modern wound dressing and compression therapy,Venous ulcers,25,1,1,1,1,1,1,1,1,1
